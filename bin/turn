@@ -5,6 +5,10 @@ board = Array.new(9, " ")
  
 puts "Welcome to Tic Tac Toe!"
 display_board(board)
+<<<<<<< HEAD
 9.times do
   turn(board)
 end
+=======
+turn(board)
+>>>>>>> 38bdd03a2cf1b932c21e573739397820b05a0ec9
